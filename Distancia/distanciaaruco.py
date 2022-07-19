@@ -1,3 +1,8 @@
+
+#Fuentes
+#pyimagesearch.com/2020/12/21/detecting-aruco-markers-with-opencv-and-python/
+#github.com/tizianofiorenzani/how_do_drones_work/tree/master/opencv
+
 from imutils.video import VideoStream
 import imutils
 import time
@@ -92,3 +97,5 @@ while True:
 # Se cierran el resto de ventanas
 cv2.destroyAllWindows()
 vs.stop()
+
+
