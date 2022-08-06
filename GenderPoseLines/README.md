@@ -9,9 +9,11 @@ Estaba destinado sólo a identificar lo previo en una foto con 2 personas de fre
 
 Los resultados obtenidos son:
 
-![Imagen1](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/foto1.jpg) | ![Imagen2]https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/imagenfinal1.jpg)
+![Imagen1](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/foto1.jpg)
+![Imagen2]https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/imagenfinal1.jpg)
 
-![Imagen3](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/foto3.jpg) | ![Imagen4]https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/imagenfinal3.jpg)
+![Imagen3](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/foto3.jpg)
+![Imagen4]https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderPoseLines/images/imagenfinal3.jpg)
 
 
 
