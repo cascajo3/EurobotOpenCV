@@ -9,3 +9,6 @@ En un principio es un conjunto de proyectos pequeños y por separado para prende
 
 
 -Proyecto 3: Detector de género en fotos.
+
+
+-Proyecto 4: Mezcla de detectores usados previamente y los de pose y YOLO para trazar una línea diferenciando por género y que comience en la nariz y acabe en el punto medio de las caderas de ambas personas en una imagen.
