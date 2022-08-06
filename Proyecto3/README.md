@@ -8,12 +8,12 @@ Simplemente el programa dibuja un cuadro alrededor de la cara de la persona y si
 
 Algunos resultados obtenidos:
 
-![Imagen1](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderDetectorOpenCV/imagenguardada.png) | ![Imagen2](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderDetectorOpenCV/imagenguardada2.png)
+![Imagen1](https://github.com/cascajo3/EurobotOpenCV/blob/main/Proyecto3/imagenguardada.png) | ![Imagen2](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderDetectorOpenCV/imagenguardada2.png)
 
 
 Y algunos errores de detección obtenidos:
 
-![Imagen3](https://github.com/cascajo3/EurobotOpenCV/blob/main/GenderDetectorOpenCV/imagenguardada4.png)
+![Imagen3](https://github.com/cascajo3/EurobotOpenCV/blob/main/Proyecto3/imagenguardada4.png)
 
 
 La fuente de las fotos es istockphoto.com.

@@ -1,7 +1,7 @@
 
 En esta carpeta están los 2 archivos utilizados para el mini-robot que se acerca o se aleja al ArUco en función de una distancia objetivo.
 
-![Vídeo](https://github.com/cascajo3/EurobotOpenCV/blob/main/arduinoRaspAruco/vid.gif)
+![Vídeo](https://github.com/cascajo3/EurobotOpenCV/blob/main/Proyecto2/vid.gif)
 
 Como se puede apreciar, está muy limitado y simplemente es un pequeño prototipo.
 
