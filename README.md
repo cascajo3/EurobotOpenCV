@@ -17,3 +17,9 @@ En un principio es un conjunto de proyectos pequeños y por separado para prende
 -Proyecto 5: No es relativo a OpenCV. He realizado los cursos de Altium Education para aprender a utilizar el programa. Diseñé una placa muy simple con 4 pulsadores, 4 leds y la conexión a un display 7 segmentos de 4 dígitos y cátodo común con sus correspondientes resistencias. El objetivo era poder utilizarla como placa de prueba para usarlo con el microcontrolador MiniDK2. Hice la prueba de exportar los archivos Gerber, los BOM y "Pick and Place" para poder mandarlo a producir a JLCPCB(o a cualquier otra empresa de manufactura de PCBs). Leyó bien los archivos Gerber y los de los componentes. Seguramente haya cometido muchos fallos a la hora de diseñarlo pero me ha servido para ir familiarizándome con el programa y las fases de producción de un PCB.
 
 También está otra placa que corresponde al proyecto del último curso de Altium. Se trata de una shield para Arduino que tiene un regulador de potencia y unos led smd.
+
+Posteriormente la placa se pidió y soldé los componentes. El resultado fue positivo a nivel de funcionalidad (con algún apaño) pero es muy mejorable a nivel de diseño. Por otro lado fue la primera vez que soldaba unas resistencias SMD con un soldador básico.
+
+Queda pendiente hacer la versión 2.0.
+
+![Vídeo](https://github.com/cascajo3/EurobotOpenCV/blob/main/Proyecto5/pcbC.gif)
